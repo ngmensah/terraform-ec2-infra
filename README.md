@@ -6,15 +6,15 @@ This project provisions EC2 instances using Terraform with automated tagging and
 
 ## Features
 
-Launch EC2 instances using Terraform
+- Launch EC2 instances using Terraform
 
-Add standard tags: Name, Environment, Owner, Product
+- Add standard tags: Name, Environment, Owner, Product
 
-Use input variables for flexibility
+- Use input variables for flexibility
 
-Modular design
+- Modular design
 
-EBS volume optimization and cleanup lifecycle policies
+- EBS volume optimization and cleanup lifecycle policies
 
 ## File Structure
 
@@ -34,16 +34,16 @@ terraform-ec2-infra/
 
 ## Tools Used
 
-Terraform v1.5+
+- Terraform v1.5+
 
-AWS (EC2, EBS, IAM)
+- AWS (EC2, EBS, IAM)
 
-Git
+- Git
 
 ## Deliverables
 
-Complete .tf files
+- Complete .tf files
 
-Sample variable file
+- Sample variable file
 
-README documentation
+- README documentation
