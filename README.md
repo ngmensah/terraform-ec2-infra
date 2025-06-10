@@ -1,6 +1,4 @@
-# terraform-ec2-infra
-
-## Project 1: Terraform EC2 Infrastructure with Auto Tagging and Cost Optimization
+📌 Project 1: Terraform EC2 Infrastructure with Auto Tagging and Cost Optimization
 
 📝 Overview
 
