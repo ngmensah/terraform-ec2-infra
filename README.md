@@ -18,6 +18,7 @@ EBS volume optimization and cleanup lifecycle policies
 
 ## File Structure
 
+``` text
 terraform-ec2-infra/
 ├── main.tf
 ├── variables.tf
@@ -29,6 +30,7 @@ terraform-ec2-infra/
         ├── main.tf
         ├── variables.tf
         └── outputs.tf
+```
 
 ## Tools Used
 
